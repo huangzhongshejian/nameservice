@@ -2,17 +2,13 @@ package cli
 
 import (
 	"fmt"
-	//"strings"
-
-	"github.com/spf13/cobra"
 
 	"github.com/cosmos/cosmos-sdk/client"
-	"github.com/cosmos/cosmos-sdk/client/flags"
 	"github.com/cosmos/cosmos-sdk/client/context"
+	"github.com/cosmos/cosmos-sdk/client/flags"
 	"github.com/cosmos/cosmos-sdk/codec"
-	//sdk "github.com/cosmos/cosmos-sdk/types"
-
-	"github.com/huangzhongshejian/test1/x/nameservice/types"
+	"github.com/cosmos/sdk-tutorials/nameservice/x/nameservice/types"
+	"github.com/spf13/cobra"
 )
 
 

@@ -15,17 +15,6 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/context"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	abci "github.com/tendermint/tendermint/abci/types"
-	// "encoding/json"
-	// "github.com/gorilla/mux"
-	// "github.com/spf13/cobra"
-	// abci "github.com/tendermint/tendermint/abci/types"
-	// "github.com/cosmos/cosmos-sdk/client/context"
-	// "github.com/cosmos/cosmos-sdk/codec"
-	// sdk "github.com/cosmos/cosmos-sdk/types"
-	// "github.com/cosmos/cosmos-sdk/types/module"
-	// "github.com/huangzhongshejian/test1/x/nameservice/client/cli"
-	// "github.com/huangzhongshejian/test1/x/nameservice/client/rest"
-	// "github.com/huangzhongshejian/test1/x/nameservice/keeper"
 )
 
 

@@ -9,15 +9,6 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/rest"
 	"github.com/cosmos/cosmos-sdk/x/auth/client/utils"
-
-	// "bytes"
-	// "net/http"
-	// "github.com/gorilla/mux"
-	// "github.com/cosmos/cosmos-sdk/client/context"
-	// sdk "github.com/cosmos/cosmos-sdk/types"
-	// "github.com/cosmos/cosmos-sdk/types/rest"
-	// "github.com/cosmos/cosmos-sdk/x/auth/client/utils"
-	// "github.com/huangzhongshejian/test1/x/nameservice/types"
 )
 
 type buyNameReq struct {

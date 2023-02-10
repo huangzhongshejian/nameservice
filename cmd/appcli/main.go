@@ -24,7 +24,7 @@ import (
 	"github.com/tendermint/go-amino"
 	"github.com/tendermint/tendermint/libs/cli"
 
-	"github.com/huangzhongshejian/test1/app"
+	"github.com/huangzhongshejian/nameservice/app"
 
 )
 

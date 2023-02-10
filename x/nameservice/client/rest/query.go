@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/gorilla/mux"
-
 	"github.com/cosmos/cosmos-sdk/client/context"
+
 	"github.com/cosmos/cosmos-sdk/types/rest"
-	//"github.com/huangzhongshejian/test1/x/nameservice/types"
+
+	"github.com/gorilla/mux"
 )
 
 func resolveNameHandler(cliCtx context.CLIContext, storeName string) http.HandlerFunc {

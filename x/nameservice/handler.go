@@ -5,7 +5,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
-	"github.com/huangzhongshejian/test1/x/nameservice/types"
+	"github.com/cosmos/sdk-tutorials/nameservice/x/nameservice/types"
 )
 
 // NewHandler returns a handler for "nameservice" type messages.

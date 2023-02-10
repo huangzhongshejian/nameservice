@@ -1,4 +1,4 @@
-module github.com/huangzhongshejian/test1
+module github.com/huangzhongshejian/nameservice
 
 go 1.13
 
