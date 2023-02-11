@@ -1,6 +1,6 @@
 module github.com/huangzhongshejian/nameservice
 
-go 1.13
+go 1.19
 
 require (
 	github.com/btcsuite/btcd v0.0.0-20190807005414-4063feeff79a // indirect
