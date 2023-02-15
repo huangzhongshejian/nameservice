@@ -1,0 +1,8 @@
+a[user]
+	enmail = huangzhongshejian@outlook.com
+	name = huangzhongshejian
+	email = huangzhongshejian@outlook.com
+[url "ssh://git@github.com/"]
+	iansteadof = https://github.com/
+[
+	insteadOf = https://github.com
